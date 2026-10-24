@@ -1,0 +1,7 @@
+[
+  {"path":"src-mirror/src/ziwei-calc.js","sha256":"a73862b442c62dbbdcd185280abbfd66a6f0c635145cf2951dc248d87e3a3e33"},
+  {"path":"src-mirror/src/crosssihua.js","sha256":"53e6622d905dee5ffa71e7c895ae1abab5d076533f06d1639eb456578e5f47b6"},
+  {"path":"src-mirror/src/bazi-calc.js","sha256":"4c7ff8ad53affad298f4252764b169f56a8cd68a711f718497d95231568e36f5"},
+  {"path":"src-mirror/src/finance-calc.js","sha256":"33c46afebbf5f76d9de68bf54d4079d299c3a686c829aadbde9e9b7679e3c8bd"},
+  {"path":"src-api/calc-daily.mjs","sha256":"9c2d72ec85cdba7c84f94ba3da7d2f59526af552d8e008683af89ac75beb779f"}
+]
